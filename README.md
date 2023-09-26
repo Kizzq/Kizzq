@@ -1,7 +1,6 @@
 contact with me:
-discord: kizz#6666 
+discord: kizzrt
 tg: kizzq
 
-I study c++, python
-c++, python developer
-I work in unreal engine 5.1
+I study python
+python enjoyer
